@@ -1,4 +1,5 @@
 # Dashboard Global de Países y Geografía
+🔗 **Link del proyecto en vivo:** [Visitar Aplicación](https://dashboard-paises-rho.vercel.app)
 
 Aplicación web interactiva desarrollada en **React** con **TypeScript** y empaquetada con **Vite**. Consume la API pública de `REST Countries` para mostrar indicadores demográficos globales, permitiendo realizar búsquedas en tiempo real, filtrar por continentes y analizar métricas detalladas por cada nación.
 
@@ -25,3 +26,9 @@ Sigue estos pasos para clonar y ejecutar el proyecto localmente en tu entorno:
    ```bash
    git clone [https://github.com/Heiler03/Dashboard-Paises.git](https://github.com/Heiler03/Dashboard-Paises.git)
    cd Dashboard-Paises
+   npm install
+   npm run dev
+   
+   Visita http://localhost:5173 para ver la aplicación en ejecución.
+
+   Desarrollado por Heiler Garay 🚀
